@@ -1,0 +1,1 @@
+// unordered_map is about three times faster than map, an array is almost a hundred times faster

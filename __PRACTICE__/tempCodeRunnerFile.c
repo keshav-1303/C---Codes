@@ -1,0 +1,1 @@
+power(2, size(double) - 1) - 1

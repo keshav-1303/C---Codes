@@ -1,0 +1,13 @@
+ctrl + alt + up/down : Multi line cursor
+
+ctrl + d : Copy current line to next line
+
+ctrl + up/down : Scroll up/down
+
+alt + up/down : Replace current line with up/down line
+
+alt + a : change All Occurences
+
+ctrl + k : format Selection
+
+ctrl + alt + m : stop code run
